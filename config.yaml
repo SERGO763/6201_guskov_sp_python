@@ -1,7 +1,7 @@
 database:
   xmin: -8.56
-  step: 5.76
-  xmax: 56.48
-  a: 7.36
-  b: 5.899
-  c: -45.2
+  step: 0.98
+  xmax: 58.8
+  a: 20
+  b: 5
+  c: -2.56
